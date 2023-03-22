@@ -31,7 +31,7 @@
 ?? **ONWUKWE-ELIAS JOY CHINONSO**
  - GitHub: [@onwukweeliasjoy](https://github.com/ONWUKWEELIASJOY)
  - Twitter: [@onwukweeliasjoy](https://twitter.com/ELIAS_JOY1)
- - Facebook: [@onwukweeliasjoy] (https://www.facebook.com/profile.php?id=100086024554959&mibextid=ZbWKwL)
+ - Facebook: [@onwukweeliasjoy](https://www.facebook.com/profile.php?id=100086024554959&mibextid=ZbWKwL)
  - Instagram: [@onwukweeliasjoy](https://instagram.com/v_log_blog?igshid=ZDdkNTZiNTM=)
  - Linkedin: [@onwukweeliasjoy](https://ng.linkedin.com/in/dd-minaj-entertainment-930b67228)
  - Upwork: [@onwukweeliasjoy](https://www.upwork.com/freelancers/~0134dcd1e5c02ed30e)
@@ -41,6 +41,8 @@
  - Github: [@akinolasultan](https://github.com/Sultanakinola)
  - Instagram: [@akinolasultan](https://instagram.com/bravewealth_?igshid=YmMyMTA2M2Y=)
  - Linkedin: [@akinolasultan](https://ng.linkedin.com/in/akinola-sultan-283454264)
+ - Twitter: [@akinolasultan](https://twitter.com/bravewealth5?t=Br7F5V5e0v5_LwH-CruoMw&s=09)
+ - Facebook: [@akinolasultan](https://www.facebook.com/profile.php?id=100082516776887&mibextid=ZbWKwL)
 
 ## Project was completed using
 
