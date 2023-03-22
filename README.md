@@ -26,9 +26,9 @@
 - You have to use malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, …)
 
 
-## Authors ##
+## Authors ##👥
 
-?? **ONWUKWE-ELIAS JOY CHINONSO**
+👤 **ONWUKWE-ELIAS JOY CHINONSO**
  - GitHub: [@onwukweeliasjoy](https://github.com/ONWUKWEELIASJOY)
  - Twitter: [@onwukweeliasjoy](https://twitter.com/ELIAS_JOY1)
  - Facebook: [@onwukweeliasjoy](https://www.facebook.com/profile.php?id=100086024554959&mibextid=ZbWKwL)
@@ -37,7 +37,7 @@
  - Upwork: [@onwukweeliasjoy](https://www.upwork.com/freelancers/~0134dcd1e5c02ed30e)
 
  
- ?? **Akinola Sultan**
+ 👤 **Akinola Sultan**
  - Github: [@akinolasultan](https://github.com/Sultanakinola)
  - Instagram: [@akinolasultan](https://instagram.com/bravewealth_?igshid=YmMyMTA2M2Y=)
  - Linkedin: [@akinolasultan](https://ng.linkedin.com/in/akinola-sultan-283454264)
